@@ -29,6 +29,154 @@ main section{
     height: 720px;
     background-color: bisque;
 }
+#content {max-width: 1600px;
+    margin: 0 auto;
+     
+ }
+
+ nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+    padding: 35px;
+}    
+
+#hero-msg h1{
+    text-align: center;
+}
+
+#hero-msg h4{
+    text-align: center;
+}
+
+.button-box{
+    text-align: center;
+}
+
+main section{
+    text-align: center;
+}
+
+#background {
+    height: 720px;
+    background-color: bisque;
+}
+
+body {
+    background-color: #fcfbfb; 
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color:rgba(195, 41, 30, 0.7);
+}
+nav a:hover {
+    background-color: rgba(0, 0, 0, 0);
+}
+ 
+.book, .join {
+    background-color: aqua;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.book:hover, .join:hover{
+    background-color: rgb(255, 196, 250);
+}
+.msg{
+    background-color: #3e8a3e;
+    line-height: 1.5em;
+    padding: 35px;
+}
+footer{
+    background-color: beige;
+    padding: 25px 50px;
+    margin-top: 200px;
+}
+
+.home-title {
+    color: grey;
+    font-size: 2em;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    margin-top: 10px;
+}
+
+h4{
+    color: aquamarine;
+}
+
+.book:hover, .join:hover {
+    color: turquoise;
+}
+
+.msg h2{
+    color: orange;
+}
+
+.msg p{
+    color: orchid;
+    font-size: .8em;
+    padding-bottom: 15px;
+}
+
+footer a{
+    color: goldenrod;
+    text-decoration: none;
+}
+footer a:hover{
+color: rosybrown;
+}
+
+.icon {
+    width: 80px;
+    padding-top: 10px;
+}
+
+.logo{
+    width: 80px;
+}
+
+#hero-img{
+    width: 100%;
+}
+
+footer p {
+    font-size: 1.2em;
+}    
+
+footer p a:hover {
+    text-decoration: underline;
+}    
+
+h2 {
+    margin: 0;
+}
+
+#logo_link {
+
+ padding-top: 5px;
+}
+
+footer .social img {
+
+  padding-top: 15px;
+}
+
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+}
+
+.card-img {
+    border: 10px solid black;
+
+}
+
+main section img {
+    box-sizing: border-box; 
+}
 
 body {
     background-color: #fcfbfb; 
