@@ -387,3 +387,20 @@ nav {
         margin-top: 25px;
     }
 }
+
+
+
+#Rivers{
+    font-size: 90px;
+    text-align: center;
+}
+
+.tittles{
+    font-size: 20px;
+    text-align: left;
+}
+
+.text{
+    font-size: medium;
+    text-align: left;
+}
