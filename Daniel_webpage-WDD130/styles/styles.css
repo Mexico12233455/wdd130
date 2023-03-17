@@ -1,0 +1,188 @@
+
+     
+ .logo{
+    width: 150px;
+    height: 100%;
+ }
+
+.car_image{
+    width: 100%;
+    height: 675px;
+    margin-bottom: 200px;
+}
+
+
+
+ nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+
+ 
+
+ nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+    padding: 35px;
+}    
+
+body {
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: tan;
+    
+
+}
+
+.title{
+    padding-top:50px;
+}
+
+.text{
+    background-color: #6f7364;
+    box-shadow: 5px 5px 10px #6f7364;
+    margin-right: 300px;
+    margin-left: 300px;
+    
+
+}
+
+header {
+    background-color:rgba(30, 33, 195, 0.7);
+}
+nav a:hover {
+    background-color: rgba(0, 0, 0, 0);
+}
+ 
+
+
+.msg{
+    background-color: #3e8a3e;
+    line-height: 1.5em;
+    padding: 35px;
+}
+footer{
+    background-color: white;
+    padding: 25px 50px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.home-title {
+    color: grey;
+    font-size: 2em;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+footer a:hover{
+color: black;
+}
+
+
+
+
+footer p {
+    font-size: 1.2em;
+}    
+
+footer p a:hover {
+    text-decoration: underline;
+}    
+
+
+
+
+footer .social img {
+
+  padding-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+nav a:hover {
+    background-color: rgba(0, 0, 0, 0);
+}
+ 
+
+
+.msg{
+    background-color: #3e8a3e;
+}
+footer{
+    background-color: beige;
+}
+
+.home-title {
+    color: grey;
+}
+
+
+.msg h2{
+    color: orange;
+}
+
+.msg p{
+    color: orchid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer p {
+    font-size: 1.2em;
+}    
+
+footer p a:hover {
+    text-decoration: underline;
+}    
+
+header {
+    display: grid;
+    grid-template-columns: 150px auto;
+    opacity: .8;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.msg{
+    grid-column: 6/10;
+    grid-row: 6/7;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+
+
+
+
+    
+ 
